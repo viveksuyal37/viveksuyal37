@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey there! 👋
 
-<!--
-**viveksuyal37/viveksuyal37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vivek Suyal, a passionate Web Developer with love for coding. My journey in the world of tech is guided by curiosity and a endless desire to learn.
 
-Here are some ideas to get you started:
+#### 🚀 Quick Facts:
+- 💻 I code because coffee alone can't handle all the bugs.
+- 🌱 Currently growing my skills in NextJS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+#### Fav Quote:
+> "Code is like humor. When you have to explain it, it’s bad." - Cory House
+
+Let's collaborate and build something awesome together! 🚀
