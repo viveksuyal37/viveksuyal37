@@ -4,7 +4,7 @@ I'm Vivek Suyal, a passionate Web Developer with love for coding. My journey in 
 
 #### 🚀 Quick Facts:
 - 💻 I code because coffee alone can't handle all the bugs.
-- 🌱 Currently growing my skills in NextJS.
+- 🌱 Currently growing my skills in monorepos.
 
 
 #### Fav Quote:
