@@ -6,7 +6,7 @@ I'm Vivek Suyal, a passionate Web Developer with love for coding. My journey in 
 - 💻 I code because coffee alone can't handle all the bugs.
 - 🌱 Currently growing my skills in nextjs monorepos.
 
-![Vivek's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![GitHub Streak](https://streak-stats.demolab.com/?user=viveksuyal37&theme=radical)
 
 #### Fav Quote:
 > "Code is like humor. When you have to explain it, it’s bad." - Cory House
