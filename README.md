@@ -6,7 +6,7 @@ I'm Vivek Suyal, a passionate Web Developer with love for coding. My journey in 
 - 💻 I code because coffee alone can't handle all the bugs.
 - 🌱 Currently growing my skills in nextjs monorepos.
 
-#### Contributions Stats:
+#### Contributions:
 ![GitHub Contribution Snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
