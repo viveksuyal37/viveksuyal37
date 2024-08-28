@@ -1,6 +1,6 @@
-### Hey there! 👋
-
 ![](https://komarev.com/ghpvc/?username=viveksuyal37&color=dc143c)
+
+### Hey there! 👋
 
 I'm Vivek Suyal, a passionate Web Developer with love for coding. My journey in the world of tech is guided by curiosity and a endless desire to learn.
 
